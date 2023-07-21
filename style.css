@@ -3,52 +3,34 @@ nav{
     border: 2px solid black;
     height: 80px;
     background-color: black;
-
-
 }
-
-
-
 .logo-image{
   
     width: 20px;
     height: 20px;
 }
-
-
 /* hover */
 a:hover{
     color: rgb(201, 149, 53);
 }
-
-
 /* navbar items styling */
 a{
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     display: inline;
-    padding: 20px;
-    
+    padding: 20px;  
 }
-
-
 #button{
     text-decoration: none;
     width: 20%;
     border-radius:15%;
     cursor: pointer;
     padding-left: 80%;
-    
-  
-
 }
-
-
 .items{
 padding-left: 5%;
 }
-
 /* button */
 button{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -57,13 +39,9 @@ button{
     border-radius:15%;
     cursor: pointer;
 }
-
 button:hover{
     color: rgb(201, 149, 53);
 }
-
-
-
 /* creating border for the card  */
 .card{
     
@@ -75,34 +53,21 @@ button:hover{
     margin: auto;
     border-radius: 2px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-
 }
-
-
-
-
 /* h1 styling */
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
 }
-
-
 /* p styling */
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:white
 }
-
-
-
 /* body background */
 body{
     background-color: rgb(253, 251, 251);
 }
-
-
-
 /* footer border */
 footer{
 
@@ -110,8 +75,6 @@ footer{
     background-color: black;
     height: 100px;
 }
-
-
 /* footer text styling  */
 .footer{
     text-align: center;
